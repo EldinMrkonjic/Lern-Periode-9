@@ -19,4 +19,4 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 leg
 # Planung 28.02.2025
 - [ ] Planung für nächste Woche erstellt
 - [ ] Modul 295 für die LB gearbeitet
-- [ ] 
+- [ ] Nachweis für DSL drehen
