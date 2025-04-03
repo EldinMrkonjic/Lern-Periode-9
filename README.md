@@ -31,3 +31,31 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 leg
 - [x] Planung für nächste Woche erstellt
 - [x] And der LB für das Modul 259 arbeiten
 - [x] Nachweis für OPL drehen
+
+
+# Planung 14.03.2025
+- [ ] Planung für nächste Woche erstellt
+- [ ] 
+- [ ] 
+
+
+
+# Planung 21.03.2025
+- [ ] Planung für nächste Woche erstellt
+- [ ] 
+- [ ] 
+
+
+
+# Planung 28.03.2025
+- [x] Planung für nächste Woche erstellt
+- [ ] 
+- [ ] 
+
+
+
+**# Planung 04.04.2025
+- [ ] Rückblick für diese LP schreiben
+- [ ] Verbesserungen verfassen
+- [ ] Nachweis drehen
+- [ ] Planung der vergangenen Tage noch nachtragen
