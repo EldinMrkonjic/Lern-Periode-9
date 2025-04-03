@@ -49,12 +49,12 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 leg
 
 # Planung 28.03.2025
 - [x] Planung für nächste Woche erstellt
+- [x] Nachweis für DSL Drehen
 - [ ] 
-- [ ] 
 
 
 
-**# Planung 04.04.2025
+# Planung 04.04.2025
 - [ ] Rückblick für diese LP schreiben
 - [ ] Verbesserungen verfassen
 - [ ] Nachweis drehen
