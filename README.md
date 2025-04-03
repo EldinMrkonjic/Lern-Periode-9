@@ -35,22 +35,22 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 leg
 
 # Planung 14.03.2025
 - [ ] Planung für nächste Woche erstellt
-- [ ] 
-- [ ] 
+- [ ] Nachtrag folgt
+- [ ] Nachtrag folgt
 
 
 
 # Planung 21.03.2025
 - [ ] Planung für nächste Woche erstellt
-- [ ] 
-- [ ] 
+- [ ] Nachtrag folgt
+- [ ] Nachtrag folgt
 
 
 
 # Planung 28.03.2025
 - [x] Planung für nächste Woche erstellt
 - [x] Nachweis für DSL Drehen
-- [ ] 
+- [ ] Nachtrag folgt
 
 
 
